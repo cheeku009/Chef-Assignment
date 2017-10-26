@@ -1,0 +1,15 @@
+Our projects require a strong working skillset with Chef. I thought it would be fun to write some Chef code to see where you are in this craft.
+Please complete the following tasks against this image (link):
+
+- Install latest Microsoft patches
+
+- install IIS
+
+- open firewall port tcp/80
+
+- create a site 'icons' on port 80
+
+- host this content:
+https://github.com/colebemis/feather.git
+
+Please use one recipe for the patches and another recipe for the installation of IIS. Please store the code in a github repo and send me (Jeff Whitworth, jwhitworth@trace3.com ) a link. Grant me access to read that repo and we can work on it together.
